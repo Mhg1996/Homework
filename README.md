@@ -1,1 +1,2 @@
-For this weeks homework assignment I built a random password generator using Javascript.
+This weeks assignment is creating a quiz to test your code knowledge.
+
